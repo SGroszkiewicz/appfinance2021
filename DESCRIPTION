@@ -1,0 +1,11 @@
+Package: appfinance2021
+Type: Package
+Title: European style up-and-in put option with a barrier
+Version: 1.0
+Date: 2021-01-31
+Author: Szymon Groszkiewicz
+Maintainer: Your Name <your@email.com>
+Description: European style up-and-in put option with a barrier active between the moment of pricing and the option expiry
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.6)
+LinkingTo: Rcpp

@@ -1,0 +1,3 @@
+useDynLib(appfinance2021, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
